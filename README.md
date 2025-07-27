@@ -1,30 +1,32 @@
-# Hello, I'm Rezananda 👋
+# 👋 Hello, I'm Rezananda!
 
-[![GitHub followers](https://img.shields.io/github/followers/NameRezananda?style=social)](https://github.com/NameRezananda)
-[![GitHub stars](https://img.shields.io/github/stars/NameRezananda?style=social)](https://github.com/NameRezananda)
+Welcome to my GitHub profile!  
+I'm currently a **Software Engineering** student at **IPWIJA University**, attending evening classes while actively developing my skills in software development and technology.
 
-Welcome to my GitHub profile! I'm passionate about web development and open-source projects.
+## 🚀 About Me
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+I'm passionate about exploring different areas of software development, and I enjoy learning by doing real-world projects. Here are some of the technologies and fields I'm working with:
 
-## 🚀 Featured Projects
-- [Kullah_rpl](https://github.com/NameRezananda/Kullah_rpl) - (Description about this project)
-- [AOK](https://github.com/NameRezananda/AOK) - (Description about this project)
-- [namerezananda.github.io](https://github.com/NameRezananda/namerezananda.github.io) - My personal website
+- 🌐 **Web Development**: HTML, CSS, JavaScript  
+- 🧩 **Backend Programming**: PHP  
+- 🗃️ **Database**: MySQL  
+- 💻 **Desktop Development**: C#  
+- 🎮 **Game Development**: Godot Engine  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NameRezananda&show_icons=true&theme=radical)
+I believe that consistency and curiosity are the keys to growth as a developer.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NameRezananda&layout=compact)
+## 🎓 Education
 
-## 🌱 I'm currently learning
-- Web Development
-- JavaScript frameworks
-- UI/UX Design
+- **IPWIJA University**  
+  Major: Software Engineering  
+  Program: Evening Class (for working professionals)
 
-## 📫 How to reach me
-- [Portfolio](https://namerezananda.github.io)
-- Email: your-email@example.com
+## 📫 Get in Touch
+
+- GitHub: [NameRezananda](https://github.com/NameRezananda)
+- Email: [Insert your email here if you want to share]
+- LinkedIn: [Insert your LinkedIn URL if available]
+
+---
+
+> “Learning while working is not a limitation — it’s the path to continuous growth.” – Rezananda
