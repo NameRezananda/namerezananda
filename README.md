@@ -19,7 +19,7 @@ I believe that consistency and curiosity are the keys to growth as a developer.
 
 - **IPWIJA University**  
   Major: Software Engineering  
-  Program: Evening Class (for working professionals)
+  Program: Weekend Class (for working professionals)
 
 ## 📫 Get in Touch
 
