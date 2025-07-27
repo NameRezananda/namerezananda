@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rezananda!
 
 Welcome to my GitHub profile!  
-I'm currently a **Software Engineering** student at **IPWIJA University**, attending evening classes while actively developing my skills in software development and technology.
+I'm currently a **Software Engineering** student at **IPWIJA University**, attending Weekend classes while actively developing my skills in software development and technology.
 
 ## 🚀 About Me
 
