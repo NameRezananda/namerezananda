@@ -24,8 +24,8 @@ I believe that consistency and curiosity are the keys to growth as a developer.
 ## 📫 Get in Touch
 
 - GitHub: [NameRezananda](https://github.com/NameRezananda)
-- Email: [Insert your email here if you want to share]
-- LinkedIn: [Insert your LinkedIn URL if available]
+- Email: name.rezananda@gmail.com
+- LinkedIn: www.linkedin.com/in/rezananda
 
 ---
 
