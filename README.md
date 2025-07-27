@@ -47,8 +47,8 @@
 ### 📫 Let's Connect
 
 - GitHub: [@NameRezananda](https://github.com/NameRezananda)  
-- Email: [name.rezananda@gmail.com]
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rezananda)
+- Email: [name.rezananda@gmail.com](name.rezananda@gmail.com)
+- LinkedIn: [rezananda](https://linkedin.com/in/rezananda)
 
 ---
 
