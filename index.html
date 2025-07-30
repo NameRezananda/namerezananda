@@ -381,6 +381,14 @@
         min-height: 120px;
         font-size: 0.85rem;
       }
+      #modeSwitchBtn {
+        min-width: unset;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      #modeSwitchBtn[data-mobile="true"] {
+        font-size: 1.5em;
+      }
     }
     .see-more-btn {
       font-family: var(--pixel-font);
@@ -551,11 +559,24 @@
       '⬛ Mono Mode', // dark
       '☀️ Light Mode' // mono
     ];
+    const modeIcons = [
+      '🌙', // light
+      '⬛', // dark
+      '☀️'  // mono
+    ];
     function setMode(idx) {
       body.classList.remove('dark', 'mono');
       if (idx === 1) body.classList.add('dark');
       if (idx === 2) body.classList.add('mono');
-      modeSwitchBtn.textContent = modeLabels[idx];
+      // Cek apakah mobile
+      const isMobile = window.matchMedia('(max-width: 600px)').matches;
+      if (isMobile) {
+        modeSwitchBtn.textContent = modeIcons[idx];
+        modeSwitchBtn.setAttribute('data-mobile', 'true');
+      } else {
+        modeSwitchBtn.textContent = modeLabels[idx];
+        modeSwitchBtn.removeAttribute('data-mobile');
+      }
     }
     modeSwitchBtn.addEventListener('click', () => {
       modeIndex = (modeIndex + 1) % 3;
@@ -563,6 +584,8 @@
     });
     // Set initial mode
     setMode(modeIndex);
+    // Update mode label/icon on resize
+    window.addEventListener('resize', () => setMode(modeIndex));
     // Contact form dummy handler
     document.querySelector('.contact-form').addEventListener('submit', function(e) {
       e.preventDefault();
